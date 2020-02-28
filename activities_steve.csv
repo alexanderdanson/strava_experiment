@@ -1,0 +1,459 @@
+Activity ID,Activity Date,Activity Name,Activity Type,Activity Description,Elapsed Time,Distance,Relative Effort,Commute,Activity Gear,Filename
+615812123,"28 May 2016, 13:40:40",Afternoon Ride,Ride,,5190,32.27,55,false,,activities/671373220.tcx.gz
+615812193,"29 May 2016, 07:02:16",Morning Ride,Ride,,14626,100.93,98,false,,activities/671373248.tcx.gz
+615812199,"5 Jun 2016, 07:02:46",Morning Ride,Ride,,15829,82.51,110,false,,activities/671373263.tcx.gz
+615812206,"19 Jun 2016, 07:29:09",Morning Ride,Ride,,15650,84.66,140,false,,activities/671373290.tcx.gz
+618243511,"22 May 2016, 08:53:37",Morning Ride,Ride,,16615,67.09,142,false,,activities/673903398.tcx.gz
+618798137,"21 May 2016, 07:16:27",Morning Ride,Ride,,10785,71.49,93,false,,activities/674225768.tcx.gz
+622261652,"22 Jun 2016, 17:14:19",Evening Ride,Ride,,4318,29.95,76,false,,activities/678146930.tcx.gz
+622261675,"25 Jun 2016, 08:04:39",Morning Ride,Ride,,14022,69.20,92,false,,activities/678146946.tcx.gz
+622261695,"26 Jun 2016, 07:03:25",Morning Ride,Ride,,15742,85.30,134,false,,activities/678146962.tcx.gz
+629475406,"28 Jun 2016, 17:26:19",Evening Ride,Ride,,3623,26.09,36,false,,activities/688956917.tcx.gz
+629475471,"3 Jul 2016, 07:39:04",Morning Ride,Ride,,18281,98.33,166,false,,activities/688956963.tcx.gz
+637185833,"10 Jul 2016, 12:07:11",Afternoon Ride,Ride,,5249,35.39,20,false,,activities/702525575.tcx.gz
+637185890,"10 Jul 2016, 06:34:27",Manchester to Blackpool 2016,Ride,"",16955,97.33,125,false,,activities/702525542.tcx.gz
+644793604,"13 Jul 2016, 06:54:28",Morning Ride,Ride,,1717,9.32,15,false,,activities/711186891.tcx.gz
+644793620,"13 Jul 2016, 17:44:14",Evening Ride,Ride,,1130,8.74,8,false,,activities/711186906.tcx.gz
+644793685,"16 Jul 2016, 08:08:16",Morning Ride,Ride,,13435,71.80,183,false,,activities/711186934.tcx.gz
+644793727,"17 Jul 2016, 07:23:31",Morning Ride,Ride,,17385,93.55,117,false,,activities/711186956.tcx.gz
+647045120,"19 Jul 2016, 17:00:19",Evening Ride,Ride,,4822,31.08,67,false,,activities/713593945.tcx.gz
+652709750,"24 Jul 2016, 06:30:38",Morning Ride,Ride,,744,5.77,2,false,,activities/719662183.tcx.gz
+652709793,"24 Jul 2016, 13:26:14",Afternoon Ride,Ride,,1062,7.69,7,false,,activities/719662227.tcx.gz
+652709843,"24 Jul 2016, 07:05:40",Preston Pedalfest,Ride,"",15653,101.16,240,false,,activities/719662222.tcx.gz
+658655871,"30 Jul 2016, 08:10:45",Morning Ride,Ride,,12463,70.36,156,false,,activities/726030620.tcx.gz
+658656392,"30 Jul 2016, 11:38:41",Lunch Ride,Ride,,3472,24.05,33,false,,activities/726031262.tcx.gz
+662321417,"31 Jul 2016, 08:24:18",Samlesbury bottoms,Ride,"",211725,40.81,51,false,,activities/730441497.tcx.gz
+663373659,"3 Aug 2016, 16:27:08",Afternoon Ride,Ride,,5788,37.29,75,false,,activities/731576353.tcx.gz
+668036626,"4 Aug 2016, 16:45:17",Afternoon Ride,Ride,,4473,30.65,44,false,,activities/736635409.tcx.gz
+668036735,"7 Aug 2016, 13:31:04",Afternoon Ride,Ride,,11581,65.28,108,false,,activities/736635477.tcx.gz
+677342369,"15 Aug 2016, 19:03:41",Evening Ride,Ride,,3732,27.68,36,false,,activities/746749223.tcx.gz
+678468803,"16 Aug 2016, 18:31:53",Evening Ride,Ride,,1162,8.04,20,false,,activities/747974246.tcx.gz
+678468806,"16 Aug 2016, 17:29:31",Evening Ride,Ride,,3660,30.12,63,false,,activities/747974222.tcx.gz
+678468836,"16 Aug 2016, 18:51:55",Evening Ride,Ride,,1717,11.72,22,false,,activities/747974278.tcx.gz
+682509637,"20 Aug 2016, 06:09:41",Morning Ride,Ride,,4562,27.91,36,false,,activities/752346980.tcx.gz
+682509685,"20 Aug 2016, 11:15:17",Lunch Ride,Ride,,2359,18.14,35,false,,activities/752347033.tcx.gz
+682509728,"20 Aug 2016, 08:06:02",Morning Ride,Ride,,11343,61.08,68,false,,activities/752347018.tcx.gz
+683389199,"30 May 2016, 12:40:12",Afternoon Run,Run,,2138,4.19,25,false,,activities/753301630.fit.gz
+683389394,"21 Aug 2016, 07:29:58",Morning Run,Run,,1830,4.83,28,false,,activities/753301837.fit.gz
+686258045,"23 Aug 2016, 13:00:22",Afternoon Ride,Ride,,13392,78.58,151,false,,activities/756378291.tcx.gz
+688796944,"25 Aug 2016, 17:36:52",Evening Ride,Ride,,2128,16.12,16,false,,activities/759082534.tcx.gz
+690659584,"27 Aug 2016, 06:29:31",Morning Ride,Ride,,21009,115.14,146,false,,activities/761092442.tcx.gz
+704602968,"21 Aug 2016, 13:11:31",Afternoon Run,Run,,2,0.00,,false,,activities/776173603.fit.gz
+704603302,"4 Sep 2016, 08:45:04",Lunch Run,Run,,3058,10.98,31,false,,activities/776173966.fit.gz
+704606131,"7 Sep 2016, 06:35:55",Morning Run,Run,"",3195,8.05,43,false,,activities/776176980.fit.gz
+705864338,"9 Sep 2016, 06:47:25",Morning Ride,Ride,Gentle meander to Margarites Village. ,17740,28.77,,false,,activities/705864338.gpx
+715186675,"17 Sep 2016, 08:07:45",Morning Ride,Ride,,12960,71.99,88,false,,activities/787898653.tcx.gz
+716561886,"18 Sep 2016, 07:03:32",Morning Ride,Ride,Lovely ride. Misty and chilly to start.,16206,85.29,132,false,,activities/789424585.tcx.gz
+723447841,"24 Sep 2016, 07:11:04",Morning Ride,Ride,,22753,123.63,340,false,,activities/797257997.tcx.gz
+724475244,"25 Sep 2016, 07:40:29",Morning Ride,Ride,,20656,99.36,,false,,activities/724475244.gpx
+731828132,"2 Oct 2016, 08:36:58",Anglezarke and Sheep house circuit,Ride,"",10066,59.38,80,false,,activities/806847544.tcx.gz
+739475408,"8 Oct 2016, 08:32:03",Morning Ride,Ride,,27498,135.29,325,false,,activities/815741929.tcx.gz
+739475471,"9 Oct 2016, 07:56:35",Morning Ride,Ride,The view from the Youth Hostel in Grinton.,18689,89.88,99,false,,activities/815742041.tcx.gz
+745219966,"15 Oct 2016, 06:54:17",Morning Ride,Ride,Tough pace today. ,16740,96.74,218,false,,activities/822482121.tcx.gz
+746452876,"16 Oct 2016, 06:58:44",Morning Ride,Ride,,15898,86.91,160,false,,activities/824139731.tcx.gz
+752251944,"22 Oct 2016, 10:52:22",Lunch Run,Run,,3938,10.35,33,false,,activities/831129772.fit.gz
+759223712,"19 Oct 2016, 05:46:22",Morning Ride,Ride,,2217,14.20,,false,,activities/839201572.tcx.gz
+759224203,"29 Oct 2016, 08:07:41",Morning Ride,Ride,,12740,76.06,224,false,,activities/839202082.tcx.gz
+760198907,"30 Oct 2016, 07:48:37",Morning Ride,Ride,,7882,50.87,70,false,,activities/840323703.tcx.gz
+767749684,"6 Nov 2016, 08:30:55",Morning Ride,Ride,,18096,83.15,102,false,,activities/849074667.tcx.gz
+779658433,"19 Nov 2016, 07:54:45",Morning Ride,Ride,,15884,91.05,300,false,,activities/862983007.tcx.gz
+781145432,"20 Nov 2016, 09:41:38",Morning Ride,Ride,,17397,100.92,329,false,,activities/864726920.tcx.gz
+787027506,"27 Nov 2016, 08:19:45",Morning Ride,Ride,,15889,85.18,218,false,,activities/871468697.tcx.gz
+792953389,"2 Dec 2016, 09:05:01",Morning Run,Run,,3269,5.91,9,false,,activities/878132904.fit.gz
+792953475,"4 Dec 2016, 07:36:42",Morning Run,Run,,2534,6.38,,false,,activities/878132992.fit.gz
+798548657,"10 Dec 2016, 08:16:48",Morning Ride,Ride,,18425,103.00,134,false,,activities/884457218.tcx.gz
+798549263,"28 Nov 2016, 18:32:49",Evening Ride,Ride,,213,0,0,false,,activities/884457118.tcx.gz
+798549291,"28 Nov 2016, 18:37:08",Evening Ride,Ride,,2934,21.78,30,false,,activities/884457140.tcx.gz
+798549298,"29 Nov 2016, 07:52:23",Morning Ride,Ride,,1888,9.31,29,false,,activities/884457162.tcx.gz
+805434822,"18 Dec 2016, 09:09:27",Morning Ride,Ride,,12024,65.39,157,false,,activities/892224085.tcx.gz
+812638446,"22 Dec 2016, 07:51:28",Morning Ride,Ride,,1853,9.25,21,false,,activities/900348667.tcx.gz
+812638464,"22 Dec 2016, 14:45:45",Afternoon Ride,Ride,,2005,13.78,32,false,,activities/900348695.tcx.gz
+812638513,"23 Dec 2016, 09:54:18",Morning Ride,Ride,,7290,34.78,67,false,,activities/900348723.tcx.gz
+812638596,"27 Dec 2016, 08:14:58",Morning Ride,Ride,,12780,72.34,158,false,,activities/900348764.tcx.gz
+818976324,"31 Dec 2016, 08:28:27",Morning Ride,Ride,,6963,49.55,,false,,activities/907274972.tcx.gz
+827738348,"10 Jan 2017, 19:08:36",Evening Ride,Ride,,3912,22.01,57,false,,activities/916774116.tcx.gz
+827766065,"7 Jan 2017, 11:26:55",Lunch Ride,Ride,,3040,20.17,66,false,,activities/916774084.tcx.gz
+827766109,"7 Jan 2017, 07:56:37",Morning Ride,Ride,,12520,65.09,271,false,,activities/916774054.tcx.gz
+829756655,"12 Jan 2017, 17:28:04",Afternoon Run,Run,,2762,8.05,54,false,,activities/918946986.fit.gz
+831243697,"14 Jan 2017, 08:13:20",Morning Run,Run,,6386,17.05,84,false,,activities/920594616.fit.gz
+832625787,"15 Jan 2017, 08:01:25",Morning Ride,Ride,,13810,78.12,136,false,,activities/922073806.tcx.gz
+837527202,"19 Jan 2017, 19:52:00",Evening Run,Run,,2893,7.82,22,false,,activities/927612061.fit.gz
+839152800,"20 Jan 2017, 13:38:57",Afternoon Ride,Ride,,5700,37.28,59,false,,activities/929411444.tcx.gz
+839152806,"21 Jan 2017, 07:53:07",Morning Ride,Ride,,3655,23.49,47,false,,activities/929411469.tcx.gz
+839152936,"21 Jan 2017, 09:04:18",Morning Ride,Ride,,12229,81.50,103,false,,activities/929411518.tcx.gz
+840430661,"22 Jan 2017, 09:27:44",Morning Ride,Ride,,7771,41.94,63,false,,activities/930787582.tcx.gz
+845119961,"26 Jan 2017, 17:32:45",Afternoon Run,Run,,3035,8.07,19,false,,activities/935841389.fit.gz
+845983341,"27 Jan 2017, 13:42:02",Afternoon Ride,Ride,,7443,44.57,63,false,,activities/936782376.tcx.gz
+846832140,"28 Jan 2017, 12:46:11",Lunch Ride,Ride,,0,0,,false,,activities/937726150.fit.gz
+847242666,"28 Jan 2017, 16:17:25",Afternoon Ride,Ride,,5346,35.46,37,false,,activities/938151379.fit.gz
+848449442,"29 Jan 2017, 09:04:05",Morning Ride,Ride,,25048,108.03,285,false,,activities/939473458.fit.gz
+853853704,"3 Feb 2017, 14:25:39",Afternoon Ride,Ride,,8451,50.71,70,false,,activities/945312738.fit.gz
+854655098,"4 Feb 2017, 07:52:46",Morning Ride,Ride,,15219,99.80,105,false,,activities/946210952.fit.gz
+856024948,"5 Feb 2017, 07:51:02",Should have charged the Garmin. 10 precious miles not recorded. Grrrr,Ride,"",16642,67.66,132,false,,activities/947688001.fit.gz
+862520769,"11 Feb 2017, 08:52:03",Morning Ride,Ride,,16657,93.36,167,false,,activities/954677299.fit.gz
+863681822,"12 Feb 2017, 08:03:54",Blowing a bas*$#d ride with Richard,Ride,"",14626,83.34,123,false,,activities/955942989.fit.gz
+869383338,"17 Feb 2017, 08:30:27",Morning Ride,Ride,,11327,86.16,149,false,,activities/962065414.fit.gz
+869424864,"17 Feb 2017, 11:39:52",Lunch Ride,Ride,,3082,17.13,14,false,,activities/962107300.fit.gz
+876037902,"22 Feb 2017, 18:14:01",Evening Run,Run,,2835,8.05,38,false,,activities/969183483.fit.gz
+879945052,"26 Feb 2017, 07:43:24",Getting to the start.,Ride,"",3678,23.68,58,false,,activities/973524878.fit.gz
+880309090,"26 Feb 2017, 09:09:42",Early finish due to mechanical.,Ride,"",12033,74.10,120,false,,activities/973926082.fit.gz
+885248205,"2 Mar 2017, 17:39:44",Afternoon Run,Run,,3580,9.93,22,false,,activities/980132499.fit.gz
+885826253,"3 Mar 2017, 07:39:31",Morning Ride,Ride,,1701,9.23,15,false,,activities/981165285.fit.gz
+887623016,"3 Mar 2017, 12:30:00",Anglezarke and Sheephouse,Ride,"",4800,28.96,,false,,
+887623946,"4 Mar 2017, 07:30:00",Morning Ride,Ride,"",10800,67.59,,false,,
+888710820,"5 Mar 2017, 08:43:49",Wet and hilly. Xx,Ride,"",19797,97.18,,false,,activities/985811334.fit.gz
+897216639,"12 Mar 2017, 08:29:09",Morning Ride,Ride,,14565,91.30,,false,,activities/995912655.fit.gz
+901476149,"15 Mar 2017, 17:52:42",Afternoon Ride,Ride,,3406,22.32,,false,,activities/1000441497.fit.gz
+903395150,"17 Mar 2017, 06:52:57",Morning Run,Run,,8163,20.83,53,false,,activities/1002476951.fit.gz
+905833201,"19 Mar 2017, 09:26:54","Sunday morning jog with eldest son, Alex. ",Run,"",3789,10.60,34,false,,activities/1005055832.fit.gz
+913996850,"25 Mar 2017, 09:30:16",Morning Ride,Ride,,24988,123.94,,false,,activities/1013566595.fit.gz
+914747295,"26 Mar 2017, 07:13:52",Morning Ride,Ride,,3239,17.78,,false,,activities/1014350800.fit.gz
+922132471,"31 Mar 2017, 13:21:53",Afternoon sneak off early,Ride,"",8015,48.78,,false,,activities/1021925227.fit.gz
+923302179,"1 Apr 2017, 07:36:54",Morning Ride,Ride,,23196,107.36,126,false,,activities/1023133106.fit.gz
+924923515,"2 Apr 2017, 08:04:43",Morning Ride,Ride,,20067,90.36,143,false,,activities/1024809192.fit.gz
+929545157,"5 Apr 2017, 17:29:37",Commute home through Brindle,Run,"",4431,12.29,24,false,,activities/1029550199.fit.gz
+933063370,"8 Apr 2017, 07:35:39",Morning Ride,Ride,,22425,119.42,156,false,,activities/1033161007.fit.gz
+933280393,"8 Apr 2017, 07:00:59",8 miles not recorded on Garmin,Ride,Home to Mellor,2400,12.87,,false,,
+934432149,"9 Apr 2017, 08:32:10",Morning Ride,Ride,,9368,66.13,44,false,,activities/1034581387.fit.gz
+940628206,"13 Apr 2017, 08:27:09",Morning Ride,Ride,,32778,161.50,218,false,,activities/1040957438.fit.gz
+945994194,"17 Apr 2017, 08:29:07",Morning Ride,Ride,,11083,64.75,84,false,,activities/1046510166.fit.gz
+954898923,"23 Apr 2017, 06:22:03",Morning Ride,Ride,,22954,111.75,230,false,,activities/1055686048.fit.gz
+959817775,"27 Apr 2017, 06:24:54",Morning run,Run,"",2906,8.16,21,false,,activities/1060703854.fit.gz
+962733278,"29 Apr 2017, 11:09:24",Run with the son,Run,"",6335,17.30,106,false,,activities/1063684262.fit.gz
+965841252,"1 May 2017, 08:59:05",Morning Ride,Ride,,7633,48.28,68,false,,activities/1066913111.fit.gz
+975349264,"7 May 2017, 05:32:52",Fred Whitton,Ride,"",35341,179.15,288,false,,activities/1076679650.fit.gz
+977148006,"8 May 2017, 16:57:11",Afternoon Ride,Ride,,9940,66.01,34,false,,activities/1078562690.fit.gz
+981846772,"11 May 2017, 17:50:52",Evening Ride,Ride,,2342,17.30,25,false,,activities/1083835990.fit.gz
+985387414,"13 May 2017, 07:47:21",Yorkshire 3 peaks walk. Garmin battery flat with 7 to go.,Hike,Actually 25 miles.,48234,29.04,58,false,,activities/1088092788.fit.gz
+990453922,"16 May 2017, 19:25:56",Evening Run,Run,,2907,8.26,26,false,,activities/1093002094.fit.gz
+995770326,"19 May 2017, 06:58:30",Morning Ride,Ride,,39145,182.23,234,false,,activities/1097882871.fit.gz
+999902480,"22 May 2017, 05:53:52",Gib rock run/hike,Run,Run/hike up the rock,4642,8.57,19,false,,activities/1102138014.fit.gz
+1006061812,"26 May 2017, 05:28:30",4 times up Duxon on the 'Willy Route'. Not bad eh?,Ride,"",4037,27.42,50,false,,activities/1108456848.fit.gz
+1007752000,"27 May 2017, 07:24:23",Morning Ride,Ride,,6982,54.74,39,false,,activities/1110192682.fit.gz
+1017791962,"2 Jun 2017, 06:52:11",Preston to Hawes. 11m missing,Ride,"",34882,118.82,169,false,,activities/1120536741.fit.gz
+1019455100,"3 Jun 2017, 07:57:25",Hawes to Ambleside via Barrow,Ride,"",33470,167.26,224,false,,activities/1122249573.fit.gz
+1020998376,"4 Jun 2017, 08:03:52",Morning Ride,Ride,,27382,125.81,116,false,,activities/1123845113.fit.gz
+1029884647,"10 Jun 2017, 14:03:36",A wet run in the countryside.,Run,"",5413,14.59,56,false,,activities/1132869523.fit.gz
+1031029171,"11 Jun 2017, 07:39:34",Morning Ride,Ride,,7839,48.38,70,false,,activities/1134033823.fit.gz
+1040623185,"16 Jun 2017, 22:07:55",Vatternrundan 2017,Ride,"",40525,297.79,451,false,,activities/1143874651.fit.gz
+1053332024,"25 Jun 2017, 10:47:18",Lunch Run,Run,,8295,21.72,37,false,,activities/1156954131.fit.gz
+1059885240,"29 Jun 2017, 17:09:48",Evening Run,Run,,4338,11.27,42,false,,activities/1163619908.fit.gz
+1062220701,"1 Jul 2017, 08:12:38",Morning Ride,Ride,,17084,85.45,101,false,,activities/1165986757.fit.gz
+1063936204,"2 Jul 2017, 07:04:55",Morning Ride,Ride,,21917,123.00,212,false,,activities/1167736674.fit.gz
+1070519473,"6 Jul 2017, 12:53:51",Making the most of the sun,Ride,"",9317,54.21,70,false,,activities/1174400641.fit.gz
+1073199179,"8 Jul 2017, 07:06:19",Morning Ride,Ride,,16593,113.10,123,false,,activities/1177107571.fit.gz
+1074891639,"9 Jul 2017, 06:45:15",Morning Ride,Ride,,15578,84.74,71,false,,activities/1178831870.fit.gz
+1078711395,"11 Jul 2017, 07:38:29",Evening Ride,Ride,"",40070,43.46,46,false,,activities/1182744583.fit.gz
+1082614712,"14 Jul 2017, 07:57:53",Had to reset the Garmin,Ride,"",158,0.86,0,false,,activities/1186682977.fit.gz
+1083208625,"14 Jul 2017, 08:02:14",Morning Ride,Ride,,26213,132.87,178,false,,activities/1187285471.fit.gz
+1086504716,"16 Jul 2017, 08:28:20",Morning Ride,Ride,,26231,150.66,150,false,,activities/1190658615.fit.gz
+1097738642,"23 Jul 2017, 10:01:50",Lunch Ride,Ride,,15621,111.30,182,false,,activities/1202074451.fit.gz
+1117882489,"5 Aug 2017, 07:18:40",Morning Run,Run,,3069,7.54,45,false,,activities/1222502876.fit.gz
+1119575451,"6 Aug 2017, 07:27:14",Morning Run,Run,"",4159,10.33,45,false,,activities/1224232466.fit.gz
+1121405506,"7 Aug 2017, 07:44:15",Morning Run,Run,,2552,4.84,9,false,,activities/1226104800.fit.gz
+1124670294,"9 Aug 2017, 07:25:59",Morning Run,Run,"",5938,14.06,83,false,,activities/1229420140.fit.gz
+1129132721,"12 Aug 2017, 06:31:58",Morning Ride,Ride,,1846,12.14,12,false,,activities/1233959961.fit.gz
+1129994627,"12 Aug 2017, 08:47:46",Morning Ride,Ride,,27232,116.13,197,false,,activities/1234851740.fit.gz
+1131203967,"13 Aug 2017, 07:44:09",Morning Ride,Ride,,11917,65.62,66,false,,activities/1236087438.fit.gz
+1136974413,"13 Aug 2017, 15:13:49","Supporting Mark, Colin and Brandon on their Everest(s) challenge.",Ride,"",269918,71.30,110,false,,activities/1241954853.fit.gz
+1140007856,"18 Aug 2017, 07:12:31",Wet ride to Alston.,Ride,"",36569,176.66,184,false,,activities/1245038384.fit.gz
+1140860998,"19 Aug 2017, 08:16:52",Morning Ride,Ride,,4082,18.07,22,false,,activities/1245900509.fit.gz
+1151682517,"25 Aug 2017, 15:33:46",Afternoon Ride,Ride,,5418,32.60,56,false,,activities/1256894441.fit.gz
+1152658887,"26 Aug 2017, 07:21:51",Morning Ride,Ride,,12722,74.50,90,false,,activities/1257882368.fit.gz
+1154605474,"27 Aug 2017, 07:35:41",Morning Ride,Ride,,15318,91.09,75,false,,activities/1259864041.fit.gz
+1163234100,"1 Sep 2017, 13:36:01",Afternoon Ride,Ride,,16232,93.87,140,false,,activities/1268566930.fit.gz
+1164896315,"2 Sep 2017, 05:23:22","Alps Day 2. Albertville - Alpe D'Huez. Col De Madeleine, Col De Glandon and the Mighty Huez. Tough tough day!",Ride,"",45091,138.96,344,false,,activities/1270251587.fit.gz
+1165496752,"3 Sep 2017, 06:39:42",The start of todays ride,Ride,"",1675,7.44,5,false,,activities/1270867136.fit.gz
+1166424536,"3 Sep 2017, 07:11:41",Alps day 3. Alpe D'Huez to Villard De Lans,Ride,"",28299,121.01,69,false,,activities/1271812943.fit.gz
+1167554161,"4 Sep 2017, 06:15:42",Morning Ride,Ride,,14268,56.30,39,false,,activities/1272951854.fit.gz
+1168207708,"4 Sep 2017, 13:27:01",Day 4 of the Alps Challenge. The ride split into 2 bits. Blow out on  the descent from the Col Du La Machine. Great support from the team and off I went again on Tony Lowe's wheel. (My wheel was Knackered).,Ride,"",14815,67.75,53,false,,activities/1273614028.fit.gz
+1169549162,"5 Sep 2017, 05:54:30",Morning Ride,Ride,"",34357,146.79,91,false,,activities/1274970823.fit.gz
+1171354003,"6 Sep 2017, 05:40:47",Ventoux plus!,Ride,"",42574,140.66,98,false,,activities/1276799523.fit.gz
+1173644716,"7 Sep 2017, 06:55:18",Sault to St Didier. Through Gorge De Nesque,Ride,"",21618,95.99,62,false,,activities/1279117848.fit.gz
+1173860321,"8 Sep 2017, 07:07:35",Does anyone want to buy a bike? Challenge over!,Ride,"",11902,77.41,35,false,,activities/1279337126.fit.gz
+1187869510,"17 Sep 2017, 09:11:32",Morning Run,Run,,3390,9.70,55,false,,activities/1293549352.fit.gz
+1193346064,"20 Sep 2017, 16:33:35",Afternoon Run,Run,,4396,12.30,31,false,,activities/1299110497.fit.gz
+1197167032,"23 Sep 2017, 09:17:11",Morning walk,Run,"",2770,3.79,4,false,,activities/1302989757.fit.gz
+1197730482,"23 Sep 2017, 14:34:44",Afternoon Run,Run,,2018,5.20,13,false,,activities/1303564652.fit.gz
+1199060251,"24 Sep 2017, 09:00:46",My house to th Last Drop. Via Anglezarke and Sheephouse. No idea where Strava got its mileage etc from!,Ride,"",6969,18.53,,false,,activities/1199060251.gpx
+1217687497,"27 Sep 2017, 13:44:04",Afternoon Ride,Ride,"",777251,33.81,44,false,,activities/1323767281.fit.gz
+1218978255,"7 Oct 2017, 11:18:43",Walk,Run,"",3020,3.22,4,false,,activities/1325077534.fit.gz
+1220977222,"8 Oct 2017, 07:10:27",Morning Ride,Ride,,26087,128.70,281,false,,activities/1327113148.fit.gz
+1228532139,"13 Oct 2017, 16:28:23",Afternoon Run,Run,,3455,8.66,15,false,,activities/1334739517.fit.gz
+1229297206,"14 Oct 2017, 09:07:56",Morning Run,Run,,2702,6.51,12,false,,activities/1335518827.fit.gz
+1239848451,"21 Oct 2017, 07:51:27",Run around Judarskogens naturreservat,Run,"",2614,6.85,39,false,,activities/1346201702.fit.gz
+1251463127,"28 Oct 2017, 12:15:17",Afternoon Run,Run,,3331,7.85,34,false,,activities/1357956731.fit.gz
+1252013028,"29 Oct 2017, 09:44:41",Morning Ride,Ride,,11423,60.44,86,false,,activities/1358515254.fit.gz
+1258216967,"2 Nov 2017, 17:36:57",Afternoon Run,Run,,2803,7.91,32,false,,activities/1364781970.fit.gz
+1258961001,"3 Nov 2017, 08:08:06",Morning Run,Run,,1817,5.26,20,false,,activities/1365531498.fit.gz
+1260440884,"4 Nov 2017, 10:50:26",Morning dog walk,Run,"",2067,2.53,13,false,,activities/1367030682.fit.gz
+1262064325,"5 Nov 2017, 08:51:56",Morning Ride,Ride,,8285,48.66,74,false,,activities/1368677055.fit.gz
+1284447063,"20 Nov 2017, 11:59:42",Lunch Run,Run,,2134,5.35,29,false,,activities/1391165523.fit.gz
+1284448592,"20 Nov 2017, 15:37:43",Morning Ride,Ride,,3886,4.21,9,false,,activities/1391167064.fit.gz
+1284448888,"20 Nov 2017, 16:53:30",Lunch Swim,Swim,,1166,193,,false,,activities/1391167359.fit.gz
+1284448974,"20 Nov 2017, 17:17:51",Lunch Swim,Swim,,697,55,,false,,activities/1391167465.fit.gz
+1284785269,"21 Nov 2017, 16:13:19",Afternoon Run,Run,,1868,5.15,15,false,,activities/1391503980.fit.gz
+1284785718,"21 Nov 2017, 16:54:58",Afternoon Ride,Ride,,2143,0,33,false,,activities/1391504439.fit.gz
+1289740148,"24 Nov 2017, 16:33:14",Afternoon Run,Run,,1459,3.82,5,false,,activities/1396488854.fit.gz
+1289740468,"24 Nov 2017, 17:09:01",Afternoon Ride,Ride,,2532,0,25,false,,activities/1396489177.fit.gz
+1298965801,"30 Nov 2017, 23:08:09",Night Run,Run,,124772,8.34,51,false,,activities/1405864724.fit.gz
+1325514049,"24 Dec 2017, 10:10:42",Lindesfarne run,Run,"",2355,5.68,14,false,,activities/1433133162.fit.gz
+1326732707,"25 Dec 2017, 13:22:48",Afternoon Run,Run,,2221,4.93,10,false,,activities/1434406934.fit.gz
+1339324604,"3 Jan 2018, 19:12:13",Evening Ride,Ride,,932,0,12,false,,activities/1447488640.fit.gz
+1339401920,"3 Jan 2018, 19:35:53",Evening Run,Run,,2100,5.01,50,false,,activities/1447566178.fit.gz
+1343164429,"6 Jan 2018, 10:11:43",Morning Run,Run,,2908,8.17,71,false,,activities/1451445878.fit.gz
+1345385658,"7 Jan 2018, 13:11:22",Afternoon Run,Run,,4290,11.52,75,false,,activities/1453740550.fit.gz
+1347266271,"8 Jan 2018, 18:22:57",Evening Ride,Ride,,1902,0,33,false,,activities/1455827131.fit.gz
+1353325768,"12 Jan 2018, 14:37:07",Afternoon Run,Run,,3139,8.33,27,false,,activities/1462075912.fit.gz
+1356547087,"14 Jan 2018, 10:19:20",Morning Ride,Ride,,5264,34.52,81,false,,activities/1465401088.fit.gz
+1358765971,"15 Jan 2018, 18:00:01",Evening Run,Run,,1832,5.00,27,false,,activities/1467699092.fit.gz
+1358840633,"15 Jan 2018, 18:41:32",Evening Ride,Ride,,1805,0,28,false,,activities/1467774314.fit.gz
+1364630594,"19 Jan 2018, 14:11:29",Afternoon Ride,Ride,,2191,0,29,false,,activities/1473768203.fit.gz
+1364682021,"19 Jan 2018, 14:48:49",Afternoon Run,Run,,2402,6.44,43,false,,activities/1473821804.fit.gz
+1365928674,"20 Jan 2018, 10:16:18",Morning Run,Run,,3172,8.35,15,false,,activities/1475135722.fit.gz
+1367848538,"21 Jan 2018, 10:33:20",Morning Run,Run,,5591,14.52,84,false,,activities/1477155635.fit.gz
+1373292318,"24 Jan 2018, 17:47:48",Afternoon Run,Run,,1840,4.93,12,false,,activities/1482771180.fit.gz
+1373376993,"24 Jan 2018, 18:24:39",Evening Ride,Ride,,2414,0,30,false,,activities/1482855812.fit.gz
+1376407017,"26 Jan 2018, 17:42:32",Afternoon Run,Run,,1893,5.00,14,false,,activities/1485935415.fit.gz
+1376453133,"26 Jan 2018, 18:35:43",Evening Ride,Ride,,922,0,20,false,,activities/1485984277.fit.gz
+1387723501,"2 Feb 2018, 11:05:39",Off to the bank,Run,"",6792,16.14,78,false,,activities/1497681556.fit.gz
+1388992489,"3 Feb 2018, 09:46:55",Morning Run,Run,,2750,6.04,21,false,,activities/1498986793.fit.gz
+1391003529,"4 Feb 2018, 10:43:36",Steady Sunday stroll in the sunshine.,Run,"",4516,5.88,11,false,,activities/1501071863.fit.gz
+1398854557,"9 Feb 2018, 10:05:36",Running in Stockholm with Alex,Run,"",2526,7.20,65,false,,activities/1509308808.fit.gz
+1400530530,"10 Feb 2018, 12:12:02",Cross country Ski (taster),Nordic Ski,"",1973,2.52,6,false,,activities/1511307243.fit.gz
+1401971231,"11 Feb 2018, 09:07:16",Run to the palace and back,Run,Left my timer on whilst I used the Palace facilities. ,3490,8.07,18,false,,activities/1513021903.fit.gz
+1407587410,"14 Feb 2018, 18:23:57",Evening Run,Run,,1996,4.84,16,false,,activities/1519233674.fit.gz
+1413591374,"18 Feb 2018, 09:32:49",Morning Ride,Ride,,9362,48.98,59,false,,activities/1525746526.fit.gz
+1417591043,"20 Feb 2018, 17:51:54",Afternoon Run,Run,,5220,14.54,62,false,,activities/1530013747.fit.gz
+1422118734,"23 Feb 2018, 14:17:57",Afternoon Ride,Ride,,7572,49.36,65,false,,activities/1534704589.fit.gz
+1423393052,"24 Feb 2018, 12:32:48",Lunch Run,Run,,2914,7.72,22,false,,activities/1536023448.fit.gz
+1425238021,"25 Feb 2018, 11:07:23",Lunch Ride,Ride,,5889,33.93,52,false,,activities/1537961086.fit.gz
+1432622454,"2 Mar 2018, 13:49:20",Afternoon Run,Run,,1863,4.95,23,false,,activities/1545573053.fit.gz
+1443824355,"9 Mar 2018, 12:03:01",Lunch Run,Run,,3715,9.26,59,false,,activities/1557134698.fit.gz
+1457090913,"17 Mar 2018, 09:38:34",Morning Run,Run,,3197,8.35,35,false,,activities/1570839481.fit.gz
+1458894368,"18 Mar 2018, 10:42:21",Morning Run,Run,,2125,5.64,20,false,,activities/1572706184.fit.gz
+1468898140,"24 Mar 2018, 10:14:04",Morning Ride,Ride,,9856,32.27,60,false,,activities/1583108894.fit.gz
+1470485831,"21 Mar 2018, 12:02:06",Lunch Run,Run,,1881,4.88,31,false,,activities/1584755190.fit.gz
+1470486042,"21 Mar 2018, 12:34:44",Lunch Ride,Ride,,1191,0,7,false,,activities/1584755583.fit.gz
+1470678679,"25 Mar 2018, 10:04:02",Lunch Run,Run,,3051,7.48,25,false,,activities/1584958290.fit.gz
+1479430171,"30 Mar 2018, 10:02:35",Lunch Run,Run,,1872,4.85,21,false,,activities/1594084362.fit.gz
+1483275612,"1 Apr 2018, 07:31:32",Morning Ride,Ride,,11989,80.61,108,false,,activities/1598126063.fit.gz
+1489376062,"4 Apr 2018, 17:04:52",Dog walk,Run,"",2115,3.44,18,false,,activities/1604456563.fit.gz
+1493923325,"7 Apr 2018, 08:42:22",Morning Run,Run,,3630,9.94,64,false,,activities/1609149110.fit.gz
+1496327002,"8 Apr 2018, 07:35:21",Morning Ride,Ride,,14129,82.85,102,false,,activities/1611644776.fit.gz
+1507518897,"14 Apr 2018, 10:03:29",Lunch Run,Run,,4513,11.49,53,false,,activities/1623320759.fit.gz
+1509873209,"15 Apr 2018, 10:10:18",Jog/walk up Darwen Tower from Abbey Village. Very wet in the end. Tilly couldn't care less about the rain.,Run,"",6152,13.70,52,false,,activities/1625767805.fit.gz
+1526403113,"23 Apr 2018, 06:11:35",Morning Run,Run,,2511,5.16,10,false,,activities/1642992031.fit.gz
+1530932572,"25 Apr 2018, 13:02:09",Afternoon Run,Run,,3048,6.42,41,false,,activities/1647725045.fit.gz
+1549130433,"4 May 2018, 07:44:48",Morning Ride,Ride,,2198,12.55,19,false,,activities/1666439635.fit.gz
+1549130873,"4 May 2018, 09:29:36",Morning Ride,Ride,,18835,91.63,96,false,,activities/1666439883.fit.gz
+1551360509,"5 May 2018, 08:46:50",Morning Ride,Ride,,24444,102.42,220,false,,activities/1668730699.fit.gz
+1553665040,"6 May 2018, 08:34:20",Morning Ride,Ride,,20289,69.50,82,false,,activities/1671109845.fit.gz
+1553865331,"6 May 2018, 14:13:24",Afternoon Ride,Ride,,2679,20.64,16,false,,activities/1671315486.fit.gz
+1581346143,"19 May 2018, 07:17:49",Walking the dogs,Walk,"",2059,2.70,3,false,,activities/1700091796.fit.gz
+1584382440,"20 May 2018, 08:17:52",Morning Ride,Ride,,19190,86.17,103,false,,activities/1703240388.fit.gz
+1591204409,"23 May 2018, 16:22:00",Afternoon Run,Run,,2608,6.45,24,false,,activities/1710302195.fit.gz
+1591277833,"23 May 2018, 17:10:59",Evening Run,Run,,785,1.62,2,false,,activities/1710377054.fit.gz
+1592541727,"24 May 2018, 07:25:13",Commute,Ride,"",2001,9.28,16,false,,activities/1711687856.fit.gz
+1593327763,"24 May 2018, 15:13:14",Commute home,Ride,"",3468,24.76,39,false,,activities/1712496889.fit.gz
+1594577728,"25 May 2018, 07:43:46",Morning Ride,Ride,,1592,9.24,25,false,,activities/1713813424.fit.gz
+1594872765,"25 May 2018, 11:34:06",Lunch Ride,Ride,,2650,18.76,16,false,,activities/1714133753.fit.gz
+1598891138,"27 May 2018, 08:27:02",Morning Ride,Ride,,5677,48.59,51,false,,activities/1718421170.fit.gz
+1599350694,"27 May 2018, 10:58:08",Lunch Ride,Ride,,6272,39.67,55,false,,activities/1718901684.fit.gz
+1608084119,"31 May 2018, 14:34:34",Afternoon Run,Run,,1913,5.34,14,false,,activities/1728219135.fit.gz
+1623465176,"7 Jun 2018, 16:01:30",Afternoon Ride,Ride,,5649,34.67,66,false,,activities/1744789306.fit.gz
+1624619557,"8 Jun 2018, 07:29:43",Morning Ride,Ride,,1839,10.16,18,false,,activities/1746026859.fit.gz
+1625192954,"8 Jun 2018, 12:15:59",Afternoon Ride,Ride,,10867,52.64,42,false,,activities/1746632147.fit.gz
+1626743834,"9 Jun 2018, 09:29:13",Morning Ride,Ride,,5685,33.27,37,false,,activities/1748276413.fit.gz
+1641596885,"15 Jun 2018, 21:28:10",Vätternrundan,Ride,"",44118,296.98,,false,,activities/1763861039.fit.gz
+1645171120,"15 Jun 2018, 21:28:27",Night Ride,Ride,"",32757,226.28,246,false,,activities/1767605331.fit.gz
+1656390558,"23 Jun 2018, 08:22:31",Morning Ride,Ride,,8576,53.12,68,false,,activities/1779337102.fit.gz
+1658431960,"24 Jun 2018, 08:34:06",Morning Run,Run,,2664,7.17,22,false,,activities/1781481872.fit.gz
+1660002063,"24 Jun 2018, 14:17:49",Afternoon Run,Run,,3118,3.22,5,false,,activities/1783123278.fit.gz
+1669393979,"29 Jun 2018, 07:07:01",Off to the races at Cartmel,Ride,"",13728,88.79,159,false,,activities/1792871604.fit.gz
+1672157050,"30 Jun 2018, 09:00:00",Grange to Home,Ride,"",11520,79.01,,false,,
+1684560858,"6 Jul 2018, 12:54:45",Afternoon Run,Run,,3117,7.94,39,false,,activities/1808573000.fit.gz
+1699433718,"13 Jul 2018, 08:35:44",Off to Patterdale Garmin playing up.,Ride,"",8715,53.39,66,false,,activities/1824053617.fit.gz
+1699586170,"13 Jul 2018, 11:09:40",Garmin froze again,Ride,"",4838,27.50,32,false,,activities/1824212089.fit.gz
+1699936952,"13 Jul 2018, 12:34:07",Final instalment,Ride,"",9725,50.05,96,false,,activities/1824576999.fit.gz
+1704285896,"15 Jul 2018, 08:09:25",Patterdale to Home,Ride,"Fitting in training rides where I can. Only 2 weeks to go until ride London. Raising money for the World Wildlife Fund. Please help me get to my £500 target if you can.  https://www.justgiving.com/fundraising/stevedanson
+",17956,107.83,141,false,,activities/1829107963.fit.gz
+1715365196,"20 Jul 2018, 13:25:42",Afternoon Run,Run,,4966,12.88,37,false,,activities/1840577754.fit.gz
+1719312771,"22 Jul 2018, 07:38:04",Morning jog walk. By gum that wur illy,Run,"",2368,4.33,25,false,,activities/1845350511.fit.gz
+1724145284,"24 Jul 2018, 09:10:17",Morning Run,Run,,2853,5.00,20,false,,activities/1850421301.fit.gz
+1736394159,"29 Jul 2018, 08:05:12",Morning Run,Run,,1896,5.10,23,false,,activities/1863141433.fit.gz
+1748808226,"4 Aug 2018, 07:05:13",Dunsop Bridge,Ride,"",16357,85.01,120,false,,activities/1876183610.fit.gz
+1762466540,"10 Aug 2018, 11:10:15",Lunch Run,Run,,3383,6.45,29,false,,activities/1892368418.fit.gz
+1766967700,"12 Aug 2018, 11:15:17",Lunch Run,Run,,3110,8.37,43,false,,activities/1897032899.fit.gz
+1767954153,"12 Aug 2018, 18:04:23",Dog walk.,Walk,"",2348,2.81,5,false,,activities/1898080502.fit.gz
+1775721728,"16 Aug 2018, 08:40:44",Morning Run,Run,,3139,8.35,44,false,,activities/1906094957.fit.gz
+1777931130,"17 Aug 2018, 08:50:03",Morning Run with the birthday boy,Run,"",1401,4.02,16,false,,activities/1908365914.fit.gz
+1803583595,"28 Aug 2018, 16:31:52",Afternoon Run,Run,,1957,4.93,31,false,,activities/1934767930.fit.gz
+1809881354,"31 Aug 2018, 14:37:51",Afternoon Run,Run,,3768,9.77,97,false,,activities/1941218388.fit.gz
+1813565499,"2 Sep 2018, 08:01:08",Morning Run,Run,,4864,12.95,206,false,,activities/1945005774.fit.gz
+1825217575,"7 Sep 2018, 12:44:34",Afternoon Run,Run,,1803,4.87,8,false,,activities/1956974960.fit.gz
+1829635139,"9 Sep 2018, 09:34:12",Morning Run,Run,,6684,17.86,135,false,,activities/1961558964.fit.gz
+1839194029,"13 Sep 2018, 16:01:56",Afternoon Run,Run,,3569,9.70,48,false,,activities/1971398727.fit.gz
+1840997903,"14 Sep 2018, 13:59:23",Afternoon Run,Run,,3495,3.52,12,false,,activities/1973248238.fit.gz
+1844927018,"16 Sep 2018, 09:44:53",Morning Run,Run,,2201,4.85,11,false,,activities/1977307806.fit.gz
+1858219972,"22 Sep 2018, 12:08:54",Afternoon Run,Run,,4094,11.30,62,false,,activities/1991148239.fit.gz
+1860118377,"23 Sep 2018, 09:10:09",Morning Run,Run,,3451,8.71,24,false,,activities/1993118796.fit.gz
+1865371165,"25 Sep 2018, 17:36:09",Evening Run,Run,,3481,8.83,27,false,,activities/1998514701.fit.gz
+1866354541,"26 Sep 2018, 07:26:55",Morning Ride,Ride,,1841,9.32,20,false,,activities/1999525899.fit.gz
+1867210152,"26 Sep 2018, 16:27:25",Afternoon Ride,Ride,,1118,9.15,10,false,,activities/2000404855.fit.gz
+1868433999,"27 Sep 2018, 06:54:31",Morning Ride,Ride,,1822,9.30,13,false,,activities/2001661421.fit.gz
+1869242664,"27 Sep 2018, 16:00:49",Afternoon Run,Run,,1990,4.85,18,false,,activities/2002496115.fit.gz
+1875002167,"30 Sep 2018, 09:02:53",Morning Run,Run,,6306,16.41,41,false,,activities/2008445043.fit.gz
+1885613910,"5 Oct 2018, 13:15:53",Afternoon Run,Run,,3136,8.14,22,false,,activities/2019411614.fit.gz
+1885726764,"5 Oct 2018, 14:28:54",Afternoon Ride,Ride,,1038,0,3,false,,activities/2019527161.fit.gz
+1903941808,"14 Oct 2018, 09:12:06",Morning Run,Run,,4589,8.33,49,false,,activities/2038458244.fit.gz
+1908828671,"16 Oct 2018, 17:28:54",Evening Run,Run,,2815,7.36,34,false,,activities/2043564945.fit.gz
+1910821626,"17 Oct 2018, 17:02:12",Evening Run,Run,,1836,4.97,14,false,,activities/2045617555.fit.gz
+1916000364,"20 Oct 2018, 11:05:34",Lunch Run,Run,,2193,5.39,12,false,,activities/2050955477.fit.gz
+1916452530,"20 Oct 2018, 12:02:19",Afternoon Ride,Ride,,1902,0,26,false,,activities/2051420582.fit.gz
+1934310876,"29 Oct 2018, 16:50:48",Afternoon Ride,Ride,,2968,0,18,false,,activities/2069912618.fit.gz
+1938890126,"31 Oct 2018, 13:38:03",Afternoon Ride,Ride,,2813,0,12,false,,activities/2074614934.fit.gz
+1941702722,"2 Nov 2018, 12:06:16",Lunch Ride,Ride,,3346,0,29,false,,activities/2077510877.fit.gz
+1944232190,"2 Nov 2018, 18:21:06",Evening Ride,Ride,,1910,0,11,false,,activities/2080131210.fit.gz
+1944232268,"2 Nov 2018, 18:53:55",Evening Run,Run,,324,0.83,4,false,,activities/2080131309.fit.gz
+1947796601,"3 Nov 2018, 12:30:22",Lunch Ride,Ride,,69517,0,119,false,,activities/2083843216.fit.gz
+1947796974,"4 Nov 2018, 09:01:53",Morning Ride,Ride,,2966,0,17,false,,activities/2083843987.fit.gz
+1951939310,"6 Nov 2018, 07:58:26",Activity,Ride,,115550,8.57,11,false,,activities/2088082666.fit.gz
+1951940041,"5 Nov 2018, 12:21:30",Lunch Run,Run,,2880,5.10,14,false,,activities/2088081563.fit.gz
+1967816615,"16 Nov 2018, 13:25:49",Afternoon Run,Run,,1821,4.88,25,false,,activities/2104386591.fit.gz
+1969183918,"17 Nov 2018, 09:15:02",Morning Run,Run,,4490,7.25,29,false,,activities/2105794848.fit.gz
+1979348072,"22 Nov 2018, 18:08:39",Evening Run,Run,,2377,6.53,25,false,,activities/2116362365.fit.gz
+1980323182,"23 Nov 2018, 10:33:18",Morning Ride,Ride,,5180,18.45,,false,,activities/2117365086.fit.gz
+1983872032,"25 Nov 2018, 11:19:49",Lunch Run,Run,,1690,4.86,19,false,,activities/2121098126.fit.gz
+1984007957,"25 Nov 2018, 11:58:50",Lunch Ride,Ride,,2135,0.96,8,false,,activities/2121239616.fit.gz
+1995927155,"2 Dec 2018, 10:24:02",Morning Run,Run,,3226,8.35,38,false,,activities/2133706945.fit.gz
+2004733696,"7 Dec 2018, 12:23:36",Lunch Ride,Ride,,1840,0.25,0,false,,activities/2142843888.fit.gz
+2006344442,"8 Dec 2018, 11:05:15",Lunch Ride,Ride,,4955,34.49,69,false,,activities/2144503577.fit.gz
+2008176463,"9 Dec 2018, 11:49:59",Lunch Run,Run,,1645,3.36,12,false,,activities/2146415005.fit.gz
+2015458506,"13 Dec 2018, 17:03:52",Afternoon Run,Run,,2547,4.46,15,false,,activities/2154010457.fit.gz
+2025372591,"19 Dec 2018, 17:54:12",Afternoon Run,Run,,1910,4.85,13,false,,activities/2164453488.fit.gz
+2025401091,"19 Dec 2018, 18:31:14",Evening Ride,Ride,,676,0,4,false,,activities/2164483125.fit.gz
+2027947369,"21 Dec 2018, 11:38:12",Lunch Ride,Ride,,2701,0.66,2,false,,activities/2167153036.fit.gz
+2029123183,"22 Dec 2018, 09:11:16",Morning Run,Run,,1823,4.91,26,false,,activities/2168369540.fit.gz
+2055008443,"4 Jan 2019, 14:28:04",Afternoon Run,Run,,1869,4.99,16,false,,activities/2195756773.fit.gz
+2055074124,"4 Jan 2019, 15:03:29",Afternoon Ride,Ride,,1816,0,6,false,,activities/2195826365.fit.gz
+2056929852,"5 Jan 2019, 08:29:04",CCC Intro ride,Ride,"",14151,68.15,,false,,activities/2197776956.fit.gz
+2073612031,"12 Jan 2019, 09:04:13",Trough with Ste P. Garmin died 10 from home,Ride,"",21432,89.39,163,false,,activities/2215131519.fit.gz
+2079626110,"15 Jan 2019, 07:12:43",Morning Run,Run,,1997,5.06,16,false,,activities/2221884556.fit.gz
+2083270364,"16 Jan 2019, 18:27:29",Spinning,Ride,"",3424,0,32,false,,activities/2225631992.fit.gz
+2086431060,"18 Jan 2019, 08:34:50",Morning Ride,Ride,,2163,12.86,16,false,,activities/2228904432.fit.gz
+2086556369,"18 Jan 2019, 09:50:44",Morning Ride,Ride,,2630,0,52,false,,activities/2229032627.fit.gz
+2086684529,"18 Jan 2019, 11:10:11",Lunch Swim,Swim,,1214,525,,false,,activities/2229165816.fit.gz
+2089013339,"19 Jan 2019, 08:15:18",Morning Ride,Ride,,18652,72.68,66,false,,activities/2231575643.fit.gz
+2101898464,"25 Jan 2019, 09:42:16",Morning Ride,Ride,,3116,0,53,false,,activities/2244808783.fit.gz
+2101966763,"25 Jan 2019, 11:08:41",Lunch Run,Run,,902,2.11,4,false,,activities/2244881757.fit.gz
+2104555392,"26 Jan 2019, 08:17:14",CCC Progression ride,Ride,"",24326,113.75,67,false,,activities/2247534255.fit.gz
+2107531452,"27 Jan 2019, 17:48:05",Afternoon Run,Run,,1569,3.90,8,false,,activities/2250613833.fit.gz
+2113839246,"30 Jan 2019, 18:27:57",Evening Ride,Ride,,3322,0,36,false,,activities/2257221564.fit.gz
+2113962046,"30 Jan 2019, 19:36:27",Evening Swim,Swim,,1087,450,,false,,activities/2257346883.fit.gz
+2115851267,"31 Jan 2019, 18:33:35",Evening Run,Run,,1801,4.62,21,false,,activities/2259282389.fit.gz
+2121350134,"3 Feb 2019, 10:45:34",Morning Run,Run,,6792,16.67,65,false,,activities/2264974739.fit.gz
+2126248689,"5 Feb 2019, 17:33:38",Afternoon Ride,Ride,,2429,0,26,false,,activities/2270047999.fit.gz
+2131973425,"8 Feb 2019, 09:33:04",Morning Ride,Ride,,3774,0,37,false,,activities/2275912197.fit.gz
+2132091618,"8 Feb 2019, 11:26:25",Lunch Swim,Swim,,991,400,,false,,activities/2276032404.fit.gz
+2136969258,"10 Feb 2019, 08:36:01",Morning Ride,Ride,,19198,82.89,49,false,,activities/2281100791.fit.gz
+2141879239,"12 Feb 2019, 19:07:18",Evening Ride,Ride,,1808,0,9,false,,activities/2286153796.fit.gz
+2141879596,"12 Feb 2019, 19:38:09",Evening Run,Run,,1214,2.86,11,false,,activities/2286154139.fit.gz
+2150266596,"15 Feb 2019, 09:59:09",Morning Ride,Ride,,2657,0,38,false,,activities/2291733124.fit.gz
+2156042471,"17 Feb 2019, 07:49:52",Morning Ride,Ride,,2149,13.14,16,false,,activities/2297809665.fit.gz
+2156045577,"17 Feb 2019, 08:26:52",Morning Ride,Ride,,18766,91.20,75,false,,activities/2297813090.fit.gz
+2160950046,"19 Feb 2019, 18:03:09",Evening Run,Run,,934,2.20,3,false,,activities/2303850187.fit.gz
+2167065153,"22 Feb 2019, 14:18:00",Afternoon Run,Run,,1811,4.93,10,false,,activities/2310148497.fit.gz
+2168893102,"23 Feb 2019, 09:55:28",Morning Ride,Ride,,5842,33.13,41,false,,activities/2312029667.fit.gz
+2172187090,"24 Feb 2019, 07:47:07",Morning Ride,Ride,,1988,13.13,9,false,,activities/2315448083.fit.gz
+2172187578,"24 Feb 2019, 08:33:00",Morning Ride,Ride,,20146,102.27,145,false,,activities/2315448254.fit.gz
+2177626157,"26 Feb 2019, 16:45:50",Afternoon Run,Run,,3007,8.21,30,false,,activities/2321040566.fit.gz
+2198803072,"8 Mar 2019, 09:32:50",Spinning,Ride,"",3683,0,32,false,,activities/2342807055.fit.gz
+2203854097,"10 Mar 2019, 10:14:01",Morning Run,Run,,8424,21.30,120,false,,activities/2348007622.fit.gz
+2214425407,"15 Mar 2019, 08:12:31",Morning Run,Run,,2681,7.23,24,false,,activities/2358846576.fit.gz
+2219012539,"17 Mar 2019, 09:32:06",Morning Run,Run,,3089,8.33,21,false,,activities/2363600764.fit.gz
+2251543298,"30 Mar 2019, 11:28:15",Lunch Run,Run,,2895,8.06,40,false,,activities/2397263731.fit.gz
+2254825418,"31 Mar 2019, 07:30:03",Another Place,Ride,"",19801,101.80,168,false,,activities/2400770721.fit.gz
+2266302621,"5 Apr 2019, 08:36:18",Morning Ride,Ride,,3716,0,39,false,,activities/2412653617.fit.gz
+2268269275,"6 Apr 2019, 07:55:29",Morning Run/walk Roddlesworth,Run,"",2695,5.63,14,false,,activities/2414690629.fit.gz
+2271939133,"7 Apr 2019, 06:18:23",Morning Ride,Ride,,1841,13.13,13,false,,activities/2418535707.fit.gz
+2271939282,"7 Apr 2019, 11:39:17",Lunch Ride,Ride,,2312,12.56,11,false,,activities/2418535877.fit.gz
+2271939537,"7 Apr 2019, 07:03:34",A Dream ride,Ride,"",16507,90.94,106,false,,activities/2418535859.fit.gz
+2283797367,"12 Apr 2019, 08:57:39",Morning Run,Run,,3558,6.45,51,false,,activities/2430855359.fit.gz
+2285820858,"13 Apr 2019, 08:07:58",Morning Run,Run,,2608,6.47,152,false,,activities/2432966672.fit.gz
+2301220566,"19 Apr 2019, 08:36:46",Good Friday Morning Run,Run,"",3133,6.20,8,false,,activities/2449028238.fit.gz
+2320032254,"26 Apr 2019, 10:16:43",Lunch Run,Run,,2994,6.73,36,false,,activities/2468775595.fit.gz
+2334577678,"1 May 2019, 16:46:43",Afternoon Run,Run,,3948,9.71,42,false,,activities/2483983849.fit.gz
+2338126638,"3 May 2019, 07:47:18",Morning Run,Run,,1923,4.90,20,false,,activities/2487692670.fit.gz
+2340691543,"4 May 2019, 07:24:45",Morning Ride,Ride,,14440,67.71,57,false,,activities/2490366423.fit.gz
+2346784680,"6 May 2019, 07:19:32",Morning Ride,Ride,,9417,42.91,59,false,,activities/2496764283.fit.gz
+2356694314,"10 May 2019, 15:56:37",Afternoon Run,Run,,1218,1.69,2,false,,activities/2507027639.fit.gz
+2356694505,"10 May 2019, 16:19:15",Afternoon Ride,Ride,,1016,0.24,1,false,,activities/2507027805.fit.gz
+2360758981,"12 May 2019, 07:00:54",Morning Run,Run,,3095,6.35,18,false,,activities/2511264924.fit.gz
+2363921862,"13 May 2019, 08:19:07",Cala Mandrago,Run,"",2511,6.05,25,false,,activities/2514571833.fit.gz
+2369205743,"15 May 2019, 10:28:23",Lunch Swim it was further than 2yds!,Swim,"",802,2,,false,,activities/2520016065.fit.gz
+2369356446,"15 May 2019, 11:37:03",Afternoon Swim,Swim,,799,228,,false,,activities/2520170077.fit.gz
+2371999009,"16 May 2019, 10:53:46",Lunch Swim,Swim,,1860,252,,false,,activities/2522895304.fit.gz
+2379470647,"19 May 2019, 09:14:34",Morning Run,Run,,3253,8.37,23,false,,activities/2530619858.fit.gz
+2394842186,"24 May 2019, 08:11:54",Morning Ride,Ride,,5627,39.14,41,false,,activities/2546444330.fit.gz
+2411363300,"31 May 2019, 09:25:04",Gowans Lane X 6 expanding circuits,Ride,"",7566,47.51,77,false,,activities/2563563839.fit.gz
+2413896308,"1 Jun 2019, 09:45:34",More like 16miles in an hour and 5 - in the rain. Thanks Garmin!,Ride,"",3887,0.88,0,false,,activities/2566189328.fit.gz
+2413896456,"1 Jun 2019, 07:22:34",Morning Ride,Ride,,8477,50.50,26,false,,activities/2566189290.fit.gz
+2426052277,"5 Jun 2019, 16:38:34",Afternoon Ride,Ride,,2141,12.80,9,false,,activities/2578773566.fit.gz
+2426416701,"5 Jun 2019, 17:27:18",Evening Ride,Ride,,1586,6.34,8,false,,activities/2579148581.fit.gz
+2426417383,"5 Jun 2019, 18:34:54",Evening Ride,Ride,,1237,9.99,13,false,,activities/2579149254.fit.gz
+2436004892,"9 Jun 2019, 06:26:03",Morning Ride,Ride,,1963,12.95,8,false,,activities/2589071157.fit.gz
+2436005251,"9 Jun 2019, 07:04:55",Morning Ride,Ride,,17794,96.70,52,false,,activities/2589071265.fit.gz
+2451476454,"15 Jun 2019, 07:21:56",Morning Ride,Ride,,15654,75.84,52,false,,activities/2605068442.fit.gz
+2453781658,"16 Jun 2019, 07:24:23",Morning Run,Run,,2876,6.56,32,false,,activities/2607465440.fit.gz
+2460975037,"18 Jun 2019, 17:17:19",Evening Run,Run,,4239,10.07,60,false,,activities/2614909333.fit.gz
+2461102622,"18 Jun 2019, 18:35:35",Evening Ride,Ride,,1532,10.67,10,false,,activities/2615039085.fit.gz
+2468051117,"21 Jun 2019, 08:05:31",Morning Ride,Ride,,13374,81.39,72,false,,activities/2622211848.fit.gz
+2470470996,"22 Jun 2019, 10:04:44",Lunch Run,Run,,2906,6.45,21,false,,activities/2624729098.fit.gz
+2497403897,"2 Jul 2019, 05:52:51",Hike up Beinn Ghlas and Ben Lawers,Run,"",15097,11.44,34,false,,activities/2652720005.fit.gz
+2537723296,"16 Jul 2019, 17:46:05",It's been a while,Run,"",3059,8.20,40,false,,activities/2693980296.fit.gz
+2540419218,"17 Jul 2019, 16:30:41",Afternoon Run,Run,,2895,7.72,19,false,,activities/2696743299.fit.gz
+2543791891,"18 Jul 2019, 19:34:17",That took some effort to get going!,Run,"",4086,10.38,44,false,,activities/2700197615.fit.gz
+2545688973,"19 Jul 2019, 16:11:54",Afternoon Run,Run,,1549,4.05,7,false,,activities/2702149473.fit.gz
+2548035420,"20 Jul 2019, 08:04:08",Morning Ride,Ride,,22824,99.42,124,false,,activities/2704571551.fit.gz
+2550146027,"21 Jul 2019, 08:56:10",Morning walk,Run,"",3943,6.68,12,false,,activities/2706758495.fit.gz
+2554779567,"22 Jul 2019, 20:00:26",Night Run,Run,,7335,17.95,42,false,,activities/2711553859.fit.gz
+2584328360,"2 Aug 2019, 14:03:41",Afternoon Run,Run,,4407,10.64,49,false,,activities/2742063254.fit.gz
+2584380733,"2 Aug 2019, 15:23:05",Afternoon Run,Run,,1019,2.56,16,false,,activities/2742116535.fit.gz
+2586511947,"3 Aug 2019, 07:24:29",Morning Ride,Ride,,16078,72.56,63,false,,activities/2744336557.fit.gz
+2590497953,"4 Aug 2019, 06:57:57",Morning Ride,Ride,,17403,99.19,106,false,,activities/2748561333.fit.gz
+2606169844,"10 Aug 2019, 08:37:26",Morning Run,Run,,3049,8.33,33,false,,activities/2765089259.fit.gz
+2608998376,"11 Aug 2019, 08:42:59",Morning Run,Run,,2682,6.48,20,false,,activities/2768045820.fit.gz
+2612913225,"12 Aug 2019, 15:39:46",Afternoon Run,Run,,2781,7.71,26,false,,activities/2772125430.fit.gz
+2626234772,"17 Aug 2019, 09:57:54",Morning Run,Run,,3207,8.34,46,false,,activities/2785967589.fit.gz
+2629582566,"18 Aug 2019, 07:24:23",Morning Ride,Ride,,19004,90.41,74,false,,activities/2789471110.fit.gz
+2633363109,"19 Aug 2019, 17:39:58",Home from work the long way,Run,"",5046,13.80,52,false,,activities/2793418226.fit.gz
+2634523496,"20 Aug 2019, 06:40:56",Commute,Ride,"",1801,9.29,11,false,,activities/2794660242.fit.gz
+2636358978,"20 Aug 2019, 17:33:29",Evening Ride,Ride,,4705,43.57,106,false,,activities/2796544083.fit.gz
+2640620807,"22 Aug 2019, 07:58:32",Run with the sons,Run,"",2972,7.06,16,false,,activities/2800989835.fit.gz
+2649043468,"25 Aug 2019, 07:00:09",Post wedding run for the car,Run,"",3137,7.69,50,false,,activities/2809764761.fit.gz
+2655354186,"27 Aug 2019, 09:23:51",Lunch Swim,Swim,"",2002,367,,false,,activities/2816356953.fit.gz
+2686991135,"7 Sep 2019, 07:23:16",Morning Ride,Ride,,14083,67.63,51,false,,activities/2849189157.fit.gz
+2689681166,"8 Sep 2019, 08:17:53",Morning Run,Run,,3158,8.37,25,false,,activities/2852008482.fit.gz
+2704999045,"13 Sep 2019, 14:33:51",Afternoon Run,Run,,3097,8.35,25,false,,activities/2867863549.fit.gz
+2720290054,"18 Sep 2019, 17:40:20",Evening Run,Run,,2979,7.44,32,false,,activities/2883739549.fit.gz
+2724439606,"20 Sep 2019, 08:52:19",Morning Run,Run,,1971,4.85,24,false,,activities/2888040321.fit.gz
+2724528577,"20 Sep 2019, 10:09:27",Lunch Run,Run,,674,1.68,3,false,,activities/2888132255.fit.gz
+2727424270,"21 Sep 2019, 07:22:12",CCC Hilly Intro Ride,Ride,"",16232,74.08,62,false,,activities/2891139281.fit.gz
+2729945566,"22 Sep 2019, 09:03:15",Morning Run,Run,,1348,3.33,10,false,,activities/2893785555.fit.gz
+2767234100,"6 Oct 2019, 10:42:51",Lunch Run,Run,,918,2.48,6,false,,activities/2932571209.fit.gz
+2767234763,"6 Oct 2019, 11:18:30",Lunch Run,Run,,869,2.39,17,false,,activities/2932571852.fit.gz
+2779638313,"11 Oct 2019, 07:47:15",Morning Run,Run,,3419,8.35,,false,,activities/2945488302.fit.gz
+2782385403,"12 Oct 2019, 11:24:34",Lunch Run,Run,,3048,8.12,,false,,activities/2948412696.fit.gz
+2785255176,"13 Oct 2019, 10:48:36",Lunch Run,Run,,2575,6.54,,false,,activities/2951470597.fit.gz
+2793404960,"16 Oct 2019, 13:41:05",Afternoon Run,Run,,2870,5.75,,false,,activities/2960146799.fit.gz
+2793454652,"16 Oct 2019, 14:33:47",Afternoon Ride,Ride,,1215,0.26,,false,,activities/2960198315.fit.gz
+2800421824,"19 Oct 2019, 07:19:31",Morning Ride,Ride,,16493,75.64,36,false,,activities/2967605541.fit.gz
+2803307405,"20 Oct 2019, 08:19:41",Morning Ride,Ride,,16336,89.10,82,false,,activities/2970698978.fit.gz
+2815284144,"25 Oct 2019, 08:43:43",Morning Run,Run,,3023,4.86,,false,,activities/2983533159.fit.gz
+2815311878,"25 Oct 2019, 09:34:43",Morning Run,Run,,1121,1.37,,false,,activities/2983562287.fit.gz
+2815345150,"25 Oct 2019, 10:04:30",Lunch Run,Run,,548,1.53,,false,,activities/2983596991.fit.gz
+2815469697,"25 Oct 2019, 10:26:54",Lunch Swim,Swim,,609,250,,false,,activities/2983727422.fit.gz
+2817858176,"26 Oct 2019, 09:36:29",Morning Run,Run,,7950,21.31,16,false,,activities/2986314700.fit.gz
+2837192212,"3 Nov 2019, 08:43:37",Morning Run,Run,,3058,8.34,,false,,activities/3007500020.fit.gz
+2851890189,"9 Nov 2019, 09:03:24",Nordic Walking/running,Run,"",7262,11.79,93,false,,activities/3024263878.fit.gz
